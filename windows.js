@@ -1,0 +1,1 @@
+export const windows = {"maroon-potret": [19, 164, 923, 1558], "maroon-landskap": [20, 77, 1651, 887], "biru-landskap": [18, 71, 1654, 887], "biru-potret": [17, 161, 924, 1559]}
